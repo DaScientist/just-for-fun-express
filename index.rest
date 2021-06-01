@@ -1,0 +1,2 @@
+### Demo request
+GET http://localhost:3000/hello HTTP/1.1
